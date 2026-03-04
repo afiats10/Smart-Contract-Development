@@ -6,3 +6,4 @@ feat: implement access control modifier
 feat: add event emission for transactions
 eat: implement basic token transfer function
 feat: add minting functionality
+feat: add burning mechanism
