@@ -9,3 +9,4 @@ feat: add minting functionality
 feat: add burning mechanism
 fix: resolve reentrancy vulnerability
 refactor: optimize gas usage in transfer logic
+feat: add pausable contract feature
